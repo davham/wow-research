@@ -4,7 +4,7 @@ date: 2022-11-23T20:56:47.169Z
 draft: false
 featured: false
 authors:
-  - David Hamilton
+  - David H
 image:
   filename: ""
   focal_point: Smart
